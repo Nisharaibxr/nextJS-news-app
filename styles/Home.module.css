@@ -1,0 +1,16 @@
+.main {
+  flex: 2;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.main h1 {
+  margin-top: -50px;
+}
+
+.main h1 {
+  text-decoration: solid;
+  
+}
